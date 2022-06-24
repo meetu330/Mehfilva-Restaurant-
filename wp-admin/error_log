@@ -1,0 +1,8 @@
+[19-Oct-2020 15:41:06 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[01-Dec-2020 10:18:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/justcod1/public_html/layout/mehfil_wp/wp-config.php on line 1
+[01-Dec-2020 10:18:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/justcod1/public_html/layout/mehfil_wp/wp-config.php on line 1
+[01-Dec-2020 10:18:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/justcod1/public_html/layout/mehfil_wp/wp-config.php on line 1
+[01-Dec-2020 10:20:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/justcod1/public_html/layout/mehfil_wp/wp-config.php on line 1
+[01-Dec-2020 10:22:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/justcod1/public_html/layout/mehfil_wp/wp-config.php on line 1
+[01-Dec-2020 10:24:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/justcod1/public_html/layout/mehfil_wp/wp-config.php on line 1
+[01-Dec-2020 10:26:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/justcod1/public_html/layout/mehfil_wp/wp-config.php on line 1
